@@ -14,9 +14,9 @@ The Contragents module provides comprehensive CRM functionality for managing cus
 
 A 3-step process for creating and editing contragents:
 
-1. **Basic Info** — Name, type (customer/supplier), entity type (company/individual), country, legal info, banking details, primary contact
-2. **Employee Contacts** — Contact persons with phones, emails, social networks, messengers
-3. **Delivery Settings** — Delivery addresses across multiple carrier services
+1. **Basic Info** - Name, type (customer/supplier), entity type (company/individual), country, legal info, banking details, primary contact
+2. **Employee Contacts** - Contact persons with phones, emails, social networks, messengers
+3. **Delivery Settings** - Delivery addresses across multiple carrier services
 
 Each step is independently editable after creation.
 
@@ -28,26 +28,26 @@ Form fields and validation rules adapt based on the selected country:
 |---------|--------|-------------------|
 | Ukraine | EDRPOU / RNOKPP | Nova Poshta, Meest, Ukrposhta, Justin |
 | USA | EIN | USPS, UPS, FedEx, Amazon Logistics |
-| Poland | — | Poczta Polska, InPost, DPD |
-| Germany | — | Deutsche Post, DHL, Hermes |
+| Poland | - | Poczta Polska, InPost, DPD |
+| Germany | - | Deutsche Post, DHL, Hermes |
 
-Legal info, banking, and addresses are stored flexibly — adding a new country doesn't require database changes.
+Legal info, banking, and addresses are stored flexibly - adding a new country doesn't require database changes.
 
 ### Contact Management
 
-- **Primary contact** — main point of contact
-- **Employee contacts** — additional contact persons
-- **Multi-channel** — phones, emails, social networks, messengers per contact
-- **Messenger linking** — phone numbers can have associated Telegram, Viber, WhatsApp accounts
+- **Primary contact** - main point of contact
+- **Employee contacts** - additional contact persons
+- **Multi-channel** - phones, emails, social networks, messengers per contact
+- **Messenger linking** - phone numbers can have associated Telegram, Viber, WhatsApp accounts
 
 ### Delivery Addresses
 
 Universal delivery types across all carriers:
 
-- **Pickup Point** — carrier warehouse / collection point
-- **Parcel Locker** — automated lockers
-- **Courier** — door-to-door delivery
-- **Post Office** — traditional postal service
+- **Pickup Point** - carrier warehouse / collection point
+- **Parcel Locker** - automated lockers
+- **Courier** - door-to-door delivery
+- **Post Office** - traditional postal service
 
 ### Financial Tracking
 
@@ -73,4 +73,4 @@ Granular access control:
 - Separate permissions for customers and suppliers lists
 - Create, view, update, delete, restore permissions
 - Financial data visibility control
-- Company-scoped — owners always have full access
+- Company-scoped - owners always have full access
