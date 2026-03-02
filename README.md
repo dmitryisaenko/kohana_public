@@ -1,9 +1,9 @@
 # Kohana
 
 > SaaS CRM-ERP for Small Business.
-Kohana is a comprehensive SaaS platform designed specifically for small production facilities and service-oriented businesses. It combines CRM and ERP functionality to help you manage your entire business from a single interface — from orders to accounting, everything in one place.
+Kohana is a comprehensive SaaS platform designed specifically for small production facilities and service-oriented businesses. It combines CRM and ERP functionality to help you manage your entire business from a single interface - from orders to accounting, everything in one place.
 
-**Built on:** [LaraFoundry](https://larafoundry.com) — a modular SaaS engine for Laravel.
+**Built on:** [LaraFoundry](https://larafoundry.com) - a modular SaaS engine for Laravel.
 
 **Tech Stack:** Laravel 12 · PHP 8.3 · Vue 3 · Inertia v2 · Custom SCSS
 
@@ -27,37 +27,37 @@ Kohana is a comprehensive SaaS platform designed specifically for small producti
 
 ## 🔄 Latest Updates
 
-### March 2026 — Warehouse & Production Modules
+### March 2026 - Warehouse & Production Modules
 
 Currently in active development:
-- **Warehouse module** — inventory management, stock levels, material tracking
-- **Production module** — manufacturing workflow management, work-in-progress tracking
+- **Warehouse module** - inventory management, stock levels, material tracking
+- **Production module** - manufacturing workflow management, work-in-progress tracking
 
-### February 2026 — Contragents Module
+### February 2026 - Contragents Module
 
 The Contragents module is complete:
-- **Customer & supplier management** — full contact information with categorization
-- **Interaction history** — track all communications and transactions
-- **Search & filtering** — find contragents by name, type, or custom fields
+- **Customer & supplier management** - full contact information with categorization
+- **Interaction history** - track all communications and transactions
+- **Search & filtering** - find contragents by name, type, or custom fields
 
-### January 2026 — Core Infrastructure
+### January 2026 - Core Infrastructure
 
 Foundation modules completed:
-- **LaraFoundry integration** — multi-tenancy, authentication, OAuth2, 2FA
-- **Design system** — custom SCSS-based UI/UX with responsive layouts
-- **Company management** — create and manage companies with role-based access control and granular permissions
+- **LaraFoundry integration** - multi-tenancy, authentication, OAuth2, 2FA
+- **Design system** - custom SCSS-based UI/UX with responsive layouts
+- **Company management** - create and manage companies with role-based access control and granular permissions
 
 ---
 
 ## 🛠️ Built With
 
-- [Laravel 12](https://laravel.com) — PHP framework
-- [Vue 3](https://vuejs.org) — Frontend framework
-- [Inertia.js v2](https://inertiajs.com) — SPA without the complexity
-- [LaraFoundry](https://larafoundry.com) — Modular SaaS engine
-- [Pest PHP](https://pestphp.com) — Testing framework
-- [Vite](https://vitejs.dev) — Build tool
-- MySQL — Database
+- [Laravel 12](https://laravel.com) - PHP framework
+- [Vue 3](https://vuejs.org) - Frontend framework
+- [Inertia.js v2](https://inertiajs.com) - SPA without the complexity
+- [LaraFoundry](https://larafoundry.com) - Modular SaaS engine
+- [Pest PHP](https://pestphp.com) - Testing framework
+- [Vite](https://vitejs.dev) - Build tool
+- MySQL - Database
 
 ---
 
@@ -78,7 +78,7 @@ Kohana is a proprietary SaaS product. This repository contains public documentat
 
 ## 👤 Author
 
-**Dmitry Isaenko** — Full-stack Laravel developer building SaaS tools.
+**Dmitry Isaenko** - Full-stack Laravel developer building SaaS tools.
 
 - Twitter/X: [@d_isaenko_dev](https://twitter.com/d_isaenko_dev)
 - LinkedIn: [Dmitry Isaenko](https://linkedin.com/in/dmitry-isaenko)
